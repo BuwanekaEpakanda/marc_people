@@ -1,6 +1,6 @@
 ---
 email: dmu.praveen@gmail.com
-post: Research Assistant
+post: Research Assistant2
 name: Praveen Sumanasekara
 photo: ./photos/praveen_sumanasekara.jpg
 ---
