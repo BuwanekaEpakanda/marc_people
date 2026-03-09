@@ -1,0 +1,13 @@
+{
+  "name": "marc_people",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node ./scripts/validate-people.mjs",
+    "validate": "node ./scripts/validate-people.mjs"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "zod": "^3.25.76"
+  }
+}
